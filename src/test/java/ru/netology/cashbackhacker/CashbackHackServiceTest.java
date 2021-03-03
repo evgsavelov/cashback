@@ -1,4 +1,4 @@
-package ru.netology.CashbackHacker;
+package ru.netology.cashbackhacker;
 
 import org.testng.annotations.Test;
 
